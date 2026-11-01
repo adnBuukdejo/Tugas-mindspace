@@ -1,0 +1,6 @@
+{
+  "name": "MindSpace - Edukasi Stres Akademik SMP",
+  "description": "Website edukasi kesehatan mental untuk pelajar SMP tentang stres akademik, cara mengelolanya, langkah kecil belajar seimbang, dan kuis interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
